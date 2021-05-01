@@ -1,4 +1,4 @@
-package main;
+package main.day2;
 
 import java.util.Date;
 

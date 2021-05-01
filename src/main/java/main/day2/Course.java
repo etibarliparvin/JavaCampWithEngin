@@ -1,4 +1,4 @@
-package main;
+package main.day2;
 
 public class Course {
 
